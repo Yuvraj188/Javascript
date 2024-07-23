@@ -1,0 +1,15 @@
+#heading {
+  color: blue;
+  background-color: aqua;
+}
+.hclass {
+  color: green;
+  background-color: yellow;
+}
+body {
+  background-color: rgb(144, 235, 144);
+}
+button {
+  background-color: blue;
+  color: white;
+}
